@@ -250,6 +250,20 @@ If RoboShield helps secure your robotics systems:
 
 ---
 
+## Security Score
+Run:
+```bash
+./scripts/security_score.sh
+```
+This script provides a security score out of 100 based on:
+- SSH
+- Firewall
+- USBGuard
+- Fail2Ban
+- Auditd
+
+---
+
 # ⚖ License
 
 Released under the MIT License.
