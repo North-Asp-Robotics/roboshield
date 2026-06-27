@@ -86,6 +86,34 @@ Create a free and open-source toolkit that improves the cybersecurity posture of
 ```
 
 ---
+## Why RoboShield?
+
+RoboShield helps secure Linux-based robotic systems through practical auditing and hardening tools that are simple to deploy and easy to customize.
+
+### Key Benefits
+
+- **Lightweight**
+  - Built with Bash and designed to run on resource-constrained systems.
+
+- **Robotics Focused**
+  - Includes security checks tailored for Linux and ROS environments.
+
+- **Easy to Use**
+  - Get started quickly with minimal setup and clear command-line output.
+
+- **Modular**
+  - Run only the security modules you need or extend the toolkit with your own.
+
+- **Open Source**
+  - Fully transparent and customizable to fit research, education, or production environments.
+
+### Designed For
+
+- Robotics developers
+- ROS users
+- Students and educators
+- Security researchers
+- Industrial robotics engineers
 
 # 🔥 Features
 
